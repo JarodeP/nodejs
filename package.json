@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "LE premier projet nodejs",
+  "main": "www/js/index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "npx nodemon server.js"
+  },
+  "author": "Jarode",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "bootstrap": "^5.3.3",
+    "express": "^4.21.2",
+    "g": "^2.0.1",
+    "jquery": "^3.7.1",
+    "nodemon": "^3.1.9"
+  }
+}
